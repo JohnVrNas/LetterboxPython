@@ -1,0 +1,62 @@
+Parasite,2022,Suspense,Assistido,4.5,Bom demais
+Interestelar,2014,Ficção Científica,Assistido,5.0,Filme espetacular!!
+Carros,2005,Animação,Assistido,4.0,Frummm Katchaum!
+Carros 4,2005,Animação,Assistido,3.5,Frummmm katchaum!
+Toy Story,1999,Ficção Científica,Assistido,3.0,Bala no alvo é o maioral!
+Matrix,1999,Ação,Assistido,4.5,Um marco no cinema!
+Vingadores,2012,Aventura,Assistido,5.0,Ótima diversão!
+Batman Begins,2005,Ação,Assistido,4.0,O começo de tudo!
+Coringa,2019,Drama,Assistido,3.5,Intenso e sombrio.
+Pulp Fiction,1994,Crime,Assistido,5.0,Clássico absoluto.
+Titanic,1997,Romance,Assistido,4.5,Emocionante até hoje.
+Avatar,2009,Ficção Científica,Assistido,4.0,Visual espetacular!
+Gladiador,2000,Histórico,Assistido,3.5,Força e honra.
+Shrek,2001,Animação,Assistido,3.0,Uma animação memorável.
+Jurassic Park,1993,Aventura,Assistido,4.5,Revolucionário!
+Cisne Negro,2010,Drama,Assistido,5.0,Psicológico e marcante.
+O Iluminado,1980,Terror,Assistido,4.0,Um clássico do terror.
+Interestelar 2,2025,Ficção Científica,Pendente,3.5,Ainda não lançado.
+Os Incríveis,2004,Animação,Assistido,3.0,Heróis em ação!
+Zootopia,2016,Animação,Assistido,4.5,Divertido e inteligente.
+Velozes e Furiosos,2001,Ação,Assistido,5.0,Veloz e emocionante.
+Homem-Aranha,2002,Aventura,Assistido,4.0,Início do herói!
+Harry Potter 1,2001,Fantasia,Assistido,3.5,O começo de uma saga.
+O Senhor dos Anéis,2001,Fantasia,Assistido,5.0,Épico e emocionante!
+Kung Fu Panda,2008,Animação,Assistido,4.5,Lições e risadas.
+Toy Story 2,1999,Ficção Científica,Assistido,4.0,Continuação incrível!
+Ratatouille,2007,Animação,Assistido,3.5,Um rato apaixonante!
+Wall-E,2008,Ficção Científica,Assistido,3.0,Robôs com coração.
+Frozen,2013,Animação,Assistido,4.5,Let it go!
+Minions,2015,Animação,Assistido,5.0,Engraçado e leve.
+Up,2009,Aventura,Assistido,4.0,Uma história emocionante.
+Divertida Mente,2015,Animação,Assistido,3.5,Uma lição sobre emoções.
+Capitão América,2011,Ação,Assistido,3.0,Um herói nasceu.
+Thor,2011,Aventura,Assistido,4.5,Uma aventura divina.
+Homem de Ferro,2008,Ação,Assistido,5.0,O nascimento de um gênio!
+Doutor Estranho,2016,Aventura,Assistido,4.0,Visual alucinante!
+pantera negra,2018,Ação,Assistido,4.4,Cultura e heróis. Filme muito bom!
+Homem-Formiga,2015,Ação,Assistido,3.0,Pequeno grande herói.
+Guardiões da Galáxia,2014,Aventura,Assistido,4.5,Divertido e emocionante.
+Vingadores: Ultimato,2019,Ação,Assistido,5.0,O fim épico de uma saga.
+O Rei Leão,1994,Animação,Assistido,4.0,O ciclo da vida!
+Aladdin,1992,Animação,Assistido,3.5,Um clássico da Disney.
+A Bela e a Fera,1991,Romance,Assistido,3.0,Uma história mágica.
+Dumbo,1941,Animação,Assistido,4.5,Clássico emocionante.
+Bambi,1942,Animação,Assistido,5.0,Emocionante e delicado.
+A Pequena Sereia,1989,Romance,Assistido,4.0,Debaixo do mar.
+Mulan,1998,Ação,Assistido,3.5,Coragem e honra.
+Hércules,1997,Aventura,Assistido,3.0,Força e diversão.
+Valente,2012,Animação,Assistido,4.5,Coragem no coração.
+Carros 3,2017,Animação,Assistido,5.0,Katchaum no máximo!
+Procurando Nemo,2003,Aventura,Assistido,4.0,Nadando para a liberdade.
+Procurando Dory,2016,Animação,Assistido,3.5,Lembranças e diversão.
+Moana,2016,Aventura,Assistido,3.0,Oceano e coragem.
+Encanto,2021,Animação,Assistido,4.5,A magia da família.
+Luca,2021,Animação,Assistido,5.0,Amizades no verão.
+Soul,2020,Drama,Assistido,4.0,O sentido da vida.
+Viva - A Vida é uma Festa,2017,Animação,Assistido,3.5,A música da vida.
+Os Croods,2013,Aventura,Assistido,3.0,Uma aventura pré-histórica.
+Como Treinar Seu Dragão,2010,Aventura,Assistido,4.5,A magia dos dragões.
+Rio,2011,Animação,Assistido,5.0,A beleza do Brasil.
+Tá Chovendo Hambúrguer,2009,Animação,Assistido,4.0,A comida nunca foi tão divertida.
+Psicopata Americano,2000,Terror,,5.0,Eu tenho que entregar umas fitas
